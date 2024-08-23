@@ -1,4 +1,4 @@
-                      Bom-Bom Oyunu Nedir?
+---------------------------------- Bom-Bom Oyunu Nedir? --------------------------------------
  
  Bu projede bom-bom oyunu tasarlayacagiz. Bu oyunda haritamizi bir txt dosyadan cekecegiz.
  Daha sonrasinda ekrana haritayi yazdirip kullanıcıdan secim yapmasini isteyecegiz.
